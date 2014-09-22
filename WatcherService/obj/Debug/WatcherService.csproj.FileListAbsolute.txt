@@ -15,4 +15,9 @@ D:\Work\Amdaris\WatcherService\WatcherService\bin\System.Web.Http.Tracing.xml
 D:\Work\Amdaris\WatcherService\WatcherService\obj\Debug\WatcherService.dll
 D:\Work\Amdaris\WatcherService\WatcherService\obj\Debug\WatcherService.pdb
 D:\Work\Amdaris\WatcherService\WatcherService\bin\WatcherService.dll.config
+D:\Work\Amdaris\WatcherService\WatcherService\bin\Antlr3.Runtime.dll
+D:\Work\Amdaris\WatcherService\WatcherService\bin\WebGrease.dll
+D:\Work\Amdaris\WatcherService\WatcherService\bin\Antlr3.Runtime.pdb
+D:\Work\Amdaris\WatcherService\WatcherService\bin\Newtonsoft.Json.xml
+D:\Work\Amdaris\WatcherService\WatcherService\bin\System.Web.Optimization.xml
 D:\Work\Amdaris\WatcherService\WatcherService\obj\Debug\WatcherService.csprojResolveAssemblyReference.cache
